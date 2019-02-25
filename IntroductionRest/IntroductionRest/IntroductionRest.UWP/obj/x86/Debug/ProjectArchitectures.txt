@@ -1,0 +1,3 @@
+C:\temp\Rest Library\Rest Library\IntroductionRest\IntroductionRest.FormulaOne.Ergast\IntroductionRest.FormulaOne.Ergast.csproj;neutral
+C:\temp\Rest Library\Rest Library\IntroductionRest\IntroductionRest\IntroductionRest.UWP\IntroductionRest.UWP.csproj;x86
+C:\temp\Rest Library\Rest Library\IntroductionRest\IntroductionRest\IntroductionRest\IntroductionRest.csproj;neutral

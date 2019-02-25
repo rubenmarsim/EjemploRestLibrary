@@ -1,0 +1,8 @@
+C:\temp\Rest Library\Rest Library\IntroductionRest\IntroductionRest.FormulaOne.Ergast\bin\Debug\IntroductionRest.FormulaOne.Ergast.dll
+C:\temp\Rest Library\Rest Library\IntroductionRest\IntroductionRest.FormulaOne.Ergast\bin\Debug\IntroductionRest.FormulaOne.Ergast.pdb
+C:\temp\Rest Library\Rest Library\IntroductionRest\IntroductionRest.FormulaOne.Ergast\bin\Debug\Newtonsoft.Json.dll
+C:\temp\Rest Library\Rest Library\IntroductionRest\IntroductionRest.FormulaOne.Ergast\bin\Debug\Newtonsoft.Json.xml
+C:\temp\Rest Library\Rest Library\IntroductionRest\IntroductionRest.FormulaOne.Ergast\obj\Debug\IntroductionRest.FormulaOne.Ergast.csproj.CoreCompileInputs.cache
+C:\temp\Rest Library\Rest Library\IntroductionRest\IntroductionRest.FormulaOne.Ergast\obj\Debug\IntroductionRest.FormulaOne.Ergast.csproj.CopyComplete
+C:\temp\Rest Library\Rest Library\IntroductionRest\IntroductionRest.FormulaOne.Ergast\obj\Debug\IntroductionRest.FormulaOne.Ergast.dll
+C:\temp\Rest Library\Rest Library\IntroductionRest\IntroductionRest.FormulaOne.Ergast\obj\Debug\IntroductionRest.FormulaOne.Ergast.pdb
